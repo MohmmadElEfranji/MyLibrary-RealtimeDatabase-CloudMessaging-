@@ -1,7 +1,5 @@
 # MyLibrary-RealtimeDatabase-CloudMessaging-
 
-
-
 #Add & Edit & Delete Notification
 
 <img src="https://user-images.githubusercontent.com/94317889/159981358-0acb9cb1-1184-40bc-bd9c-1829267f885e.jpg" width="150">
