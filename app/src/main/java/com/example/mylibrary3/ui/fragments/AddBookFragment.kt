@@ -53,7 +53,7 @@ class AddBookFragment : Fragment() {
         database = Firebase.database.reference
         //endregion
 
-        FirebaseMessaging.getInstance().subscribeToTopic(TOPIC)
+
         //region Book review
         binding.rbRatingBar.stepSize = .5f
 

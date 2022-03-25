@@ -74,6 +74,7 @@ class EditBookFragment : Fragment() {
             mRate = rating
         }
         //endregion
+
 //region Update Button
         binding.btnEditBook.setOnClickListener {
 
